@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Vishvesh Modcoicar",
+    "occupation": "Full Stack Developer/Data Scientist/AIML Enthusiast\n",
+    "description": "I love to build and create things that make people's lives easier.",
+    "image": "1.PNG",
+    "bio": "Hey there! I'm Vishvesh — data whisperer by day, podcast host by passion, and a full-stack hustler in between. With hands-on experience in AI, data science, and cybersecurity, I've worked with startups, corporates, and even pitched defense strategies to ₹400 Cr+ firms. Along this wild ride, I discovered that my real spark lies in translating complex tech into real-world impact — whether that's through building dashboards, hosting high-energy podcast episodes, or mentoring fellow learners. I've educated, entertained, and empowered audiences through data-driven storytelling — from YouTube to boardrooms. Here, you'll get a front-row seat to real projects, real conversations, and real wins — all from someone who's learning, growing, and hacking the system every day, just like you.",
+    "contactmessage": "Get in touch with me soon for new projects, collaborations, or just a friendly chat! I'm always open to new opportunities and ideas.",
+    "email": "vishveshmodcoicar@gmail.com",
+    "phone": "+91 8379932790",
+    "address": {
+      "street": "Vanaz, Kothrud",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411038"
+    },
+  
+    "resumedownload": "/resume/Vishvesh_Resume_Updated.pdf",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://youtu.be/4Lruj6uAV48?si=fDNXhqcVd6GKPoPR",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vishveshmodcoicar-401b571ba/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/vishveshmodcoicar",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "MIT-WPU",
+        "degree": "Bachelor's Degree, Computer Science Engineering (With AI & Data Science Specialization)",
+        "graduation": "July 2026",
+        "description": "Currently pursuing a Bachelor's degree in Computer Science Engineering with a specialization in AI and Data Science from MIT-WPU, Pune. I am actively involved in various projects and research activities related to AI and data science."
+      }
+    ],
+    "work": [
+  {
+    "company": "British Airways (Virtual Internship)",
+    "title": "Data Science Intern",
+    "years": "Feb 2025",
+    "description": "Web-scraped 3,800+ customer reviews to analyze passenger sentiment and operational feedback. Extracted actionable insights using Python, NLP, and RStudio, contributing to improved visualization and data storytelling pipelines for customer experience analysis."
+  },
+  {
+    "company": "Data Dcoders Analytics Club",
+    "title": "Director",
+    "years": "Sept 2023 – Present",
+    "description": "Led R&D initiatives and streamlined cross-functional collaboration between marketing, design, and technical teams. Boosted data analytics efficiency by 70% through workshops and automation tools focused on beginner-friendly onboarding."
+  },
+  {
+    "company": "Computer Society of India (CSI) – MIT-WPU Chapter",
+    "title": "PR & Content Head",
+    "years": "Sept 2023 – Aug 2024",
+    "description": "Managed PR, outreach, and content across club verticals. Spearheaded major tech events and led SaaS and data science initiatives, enhancing member engagement and cross-domain collaboration."
+  },
+  {
+    "company": "Skillmaster Company",
+    "title": "Cybersecurity Associate",
+    "years": "Oct 2023 – Aug 2024",
+    "description": "Delivered cybersecurity training to mid-sized enterprises, including Supreme Facility Management (₹300–400 Cr turnover). Built and proposed cybersecurity frameworks tailored to client infrastructure and digital workflows."
+  },
+  {
+    "company": "Google Developer Student Clubs (GDSC) – MIT-WPU",
+    "title": "Management Head",
+    "years": "Sept 2023 – Aug 2024",
+    "description": "Scaled GDSC from 20 to 900+ active members, establishing it as the leading chapter in Pune. Collaborated on Google Summer of Code projects including a Hidden Camera Detector with OpenCV, and mentored peers on product research and community engagement."
+  },
+  {
+    "company": "Buzzcast Media",
+    "title": "Head of Hosts & Podcasts",
+    "years": "Dec 2023 – Present",
+    "description": "Led a 70-member media team and managed a community of 300+ students. Hosted high-profile college-funded podcast episodes featuring guests like UPSC interviewer Dr. Vijender Singh Chauhan. Oversaw content, production, and guest relations."
+  },
+  {
+    "company": "Freelance Show Host",
+    "title": "Podcast & Event Host (Independent Contractor)",
+    "years": "2023 – Present",
+    "description": "Weekend freelance host for shows and podcasts, contributing to rent and living expenses. Managed end-to-end production, audience engagement, and earned consistent feedback for lively, insightful sessions blending tech, entrepreneurship, and storytelling."
+  }
+]
+,
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Tech Talks & Podcasts",
+        "category": "YouTube Content",
+        "image": "podcast.jpg",
+        "url": "https://youtu.be/4Lruj6uAV48?si=Y2z_rCSr92oaXsdG"
+      },
+      {
+        "title": "Data Science & AI Projects",
+        "category": "YouTube Channel",
+        "image": "youtube.jpg",
+        "url": "https://youtu.be/-YAbyh6DdgA?si=JcVPfRqGHyCNOlN6"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Vishvesh is absolutely excellent, his depth of knowledge really meant a lot to us... I would definitely recommend",
+        "user": "Raj Patil"
+      },
+      {
+        "text": "You'll finally feel like you know what's going on!",
+        "user": "Manoj Kumar"
+      }
+    ]
+  }
+}

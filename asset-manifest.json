@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vishveshmodcoicar/modern_portfolio_pack.git/static/css/main.6457d1d9.css",
+    "main.js": "/vishveshmodcoicar/modern_portfolio_pack.git/static/js/main.c87f97ca.js",
+    "index.html": "/vishveshmodcoicar/modern_portfolio_pack.git/index.html",
+    "main.6457d1d9.css.map": "/vishveshmodcoicar/modern_portfolio_pack.git/static/css/main.6457d1d9.css.map",
+    "main.c87f97ca.js.map": "/vishveshmodcoicar/modern_portfolio_pack.git/static/js/main.c87f97ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6457d1d9.css",
+    "static/js/main.c87f97ca.js"
+  ]
+}
