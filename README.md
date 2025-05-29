@@ -1,4 +1,5 @@
-React JS Resume Starter Pack and Digital Portfolio
+React JS Resume Starter Pack and Digital Portfolio 
+- A tutorial inspired by @SonnySangha
 
 Welcome to the Resume Portfolio Starter Pack!  
 This project lets you showcase your skills, experience, and projects in a modern, customizable portfolio website.
