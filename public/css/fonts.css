@@ -24,6 +24,13 @@
     font-style: normal;
 }
 @font-face {
+    font-family: 'Audrey';
+    src: url('/fonts/Audrey-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+@font-face {
     font-family: 'opensans-light';
     src: url('fonts/opensans/OpenSans-Light-webfont.eot');
     src: url('fonts/opensans/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
@@ -154,4 +161,25 @@
    src: url('fonts/opensans/OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
    }
 
+}
+
+@font-face {
+    font-family: 'SF Pro';
+    src: url('/fonts/SF-Pro-Display-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SF Pro';
+    src: url('/fonts/SF-Pro-Display-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap');
+    font-weight: normal;
+    font-style: normal;
 }

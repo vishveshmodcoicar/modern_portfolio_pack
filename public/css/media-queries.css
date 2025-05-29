@@ -14,7 +14,7 @@
     /* header styles
    ------------------------------------------------------------------ */
    header .banner-text h1 {
-      font: 80px/1.1em 'opensans-bold', sans-serif;
+      font: 80px/1.1em 'SF Pro', sans-serif;
       letter-spacing: -1px;
       margin: 0 auto 12px auto;
    }
@@ -29,11 +29,11 @@
    ------------------------------------------------------------------ */
    header .banner { padding-bottom: 12px; }
    header .banner-text h1 {
-      font: 78px/1.1em 'opensans-bold', sans-serif;
+      font: 78px/1.1em 'SF Pro', sans-serif;
       letter-spacing: -1px;      
    }
    header .banner-text h3 {
-      font: 17px/1.9em 'librebaskerville-regular', serif;
+      font: 17px/1.9em 'Playfair Display', serif;
       width: 80%;
    }
    header .banner-text hr {
@@ -53,6 +53,8 @@
       width: 114px;
       height: 114px;
       margin-left: 12px;
+      object-fit: cover;
+      object-position: top;
    }
    #about .contact-details { width: 50%; }
    #about .download { width: 50%; }
@@ -87,7 +89,7 @@
       font-size: 66px;
       line-height: 66px;
    }
-   #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
+   #contact .section-head p.lead { font: 17px/33px 'Audrey', serif; }
 
 
 }
@@ -191,9 +193,9 @@
       padding-bottom: 12px;
       padding-top: 6px;
    }
-   header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
+   header .banner-text h1 { font: 68px/1.1em 'SF Pro', sans-serif; }
    header .banner-text h3 {
-      font: 16px/1.9em 'librebaskerville-regular', serif;
+      font: 16px/1.9em 'Playfair Display', serif;
       width: 85%;
    }
    header .banner-text hr {
@@ -271,8 +273,7 @@
    #testimonials .header-col h1:before { content: none; }
    #testimonials blockquote { padding-bottom: 24px; }
    #testimonials blockquote p {
-      font-size: 20px;
-      line-height: 42px;      
+      font: 20px/42px 'Audrey', serif;
    }
 
    /* Control Nav */
@@ -351,11 +352,11 @@
    -------------------------------------------------------------------- */
    header .banner { padding-top: 24px; }
    header .banner-text h1 {
-      font: 40px/1.1em 'opensans-bold', sans-serif;      
+      font: 40px/1.1em 'SF Pro', sans-serif;      
       margin: 0 auto 24px auto;
    }
    header .banner-text h3 {
-      font: 14px/1.9em 'librebaskerville-regular', sans-serif;
+      font: 14px/1.9em 'Playfair Display', serif;
       width: 90%;
    }
   
