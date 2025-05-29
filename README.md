@@ -3,7 +3,7 @@ React JS Resume Starter Pack and Digital Portfolio
 Welcome to the Resume Portfolio Starter Pack!  
 This project lets you showcase your skills, experience, and projects in a modern, customizable portfolio website.
 
-✨ Features
+Features
 
 - **Easy customization** via a single JSON file
 - Responsive, modern design
@@ -13,7 +13,7 @@ This project lets you showcase your skills, experience, and projects in a modern
 
 ---
 
- 🛠️ Getting Started
+ Getting Started
 
  1. Clone the Repository
 
@@ -37,8 +37,7 @@ npm start
 Open [http://localhost:3000](http://localhost:3000) to view your portfolio.
 
 ---
-
- 📝 Customizing Your Portfolio
+Customizing Your Portfolio
 
 All your personal information, projects, and links are managed in one file:  
 **`public/resumeData.json`**
@@ -132,15 +131,13 @@ Edit the `"work"` and `"education"` arrays to reflect your background.
 ```
 
 ---
-
- 🖼️ Adding Images
+Adding Images
 
 - **Profile Image:** Place in `public/images/` and update `"image"` in `resumeData.json`
 - **Project Images:** Place in `public/images/portfolio/` and reference in the `"image"` field for each project
 
 ---
-
-🌐 Deployment
+Deployment
 
 You can deploy your portfolio to platforms like **Vercel**, **Netlify**, or **GitHub Pages**.
 
@@ -151,16 +148,14 @@ You can deploy your portfolio to platforms like **Vercel**, **Netlify**, or **Gi
 2. Follow your chosen platform's instructions for deploying a React app.
 
 ---
-
-💡 Tips
+Tips
 
 - **Favicon:** Replace `public/favicon.ico` with your own icon for a personal touch.
 - **Styling:** Customize styles in `public/css/` for colors, fonts, and layout.
 - **Live Preview:** Use `npm start` to see changes instantly as you edit your JSON or images.
 
 ---
-
- 🙋‍♂️ Need Help?
+Need Help?
 
 If you have questions or need help customizing, feel free to open an issue or reach out!
 
